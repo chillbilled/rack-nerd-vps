@@ -4,7 +4,7 @@ RackNerd的特点是便宜，我们不用它来做站。我们用来搭建自己
 
 购买VPS
 
-直接访问https://my.racknerd.com/aff.php?aff=6670&pid=912，
+直接访问 [RackNerd](https://my.racknerd.com/aff.php?aff=6670&pid=912)，
 ①	这个地方选择年付还是两年付，两年付便宜一点
 ②	处可以把内存加大一点，每年的价格多11刀。
 ③	选择系统的类型，选择debian12，
@@ -29,6 +29,8 @@ RackNerd的特点是便宜，我们不用它来做站。我们用来搭建自己
 ⑥	选择付款方式，这个地方比较友好，可以支付宝，也可以PayPal，信用卡
 
 付款成功后， 
+
+
 <img width="865" height="844" alt="图片" src="https://github.com/user-attachments/assets/84236067-0a3b-4f6b-b73e-c43170bdc9c8" />
 
 然后选中复选框，点击最下方的Continue
@@ -38,13 +40,17 @@ RackNerd的特点是便宜，我们不用它来做站。我们用来搭建自己
 <img width="865" height="927" alt="图片" src="https://github.com/user-attachments/assets/394ce526-0bc8-4a65-9281-8e9a726af8aa" />
 
 付款成功后，出现下图， 
+
+
 <img width="865" height="486" alt="图片" src="https://github.com/user-attachments/assets/0daf4f12-8ea4-4341-a570-cba2b430e9d7" />
 
 点击继续到客户区，看到了你买的VPS
+
+
 <img width="865" height="453" alt="图片" src="https://github.com/user-attachments/assets/2a5276e6-8384-45f4-b6b5-46a94502d1e8" />
 
- 
+
 点击检视详情，查看你的VPS
 
- 
+[现在购买](https://my.racknerd.com/aff.php?aff=6670&pid=912)
 
